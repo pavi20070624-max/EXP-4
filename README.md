@@ -43,12 +43,17 @@ Half wave rectifier:
 
 <img width="1600" height="1520" alt="image" src="https://github.com/user-attachments/assets/4ec3eb53-7632-42e3-882a-173a32984032" />
 
+
+
+
 Bridge rectifier:
 
 <img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/90bd0fc7-c488-4ef3-a61c-b7b746747e1a" />
 
 
 <img width="1600" height="1397" alt="image" src="https://github.com/user-attachments/assets/c78001b0-2498-4b80-81b5-a5267aa96c03" />
+
+
 
 
 
@@ -66,12 +71,12 @@ WAVEFORM:
 
 Half Wave Rectifier:
 
-
 <img width="756" height="360" alt="image" src="https://github.com/user-attachments/assets/19f3a362-ff58-4edc-8344-3418fc149d4d" />
 
 
-Bridge Rectifier:
 
+
+Bridge Rectifier:
 
 <img width="756" height="360" alt="image" src="https://github.com/user-attachments/assets/21d4b782-b803-4106-8f39-0a125c0e4396" />
 
